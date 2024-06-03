@@ -1,0 +1,7 @@
+### GET metadata
+POST http://localhost:4004/odata/v4/odata/getHello
+Content-Type: application/json;charset=UTF-8
+
+{
+  "name": "Milton"
+}
